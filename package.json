@@ -1,0 +1,8 @@
+{
+  "name": "lit-html-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gatchan0807/lit-html-sandbox.git",
+  "author": "ahaha0807 <b5331@oic.jp>",
+  "license": "MIT"
+}
