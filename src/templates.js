@@ -12,6 +12,7 @@ export const clickEventTemplate = eventHandler => html`
 `;
 
 export const input = props => html`
+    <h1>Input your TODOs.</h1>
 	<input type="text" id="js_input" />
 	<button @click=${props.submitHandler}>Submit</button>
 `;
